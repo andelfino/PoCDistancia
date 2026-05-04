@@ -1,0 +1,19 @@
+# Variables de entorno — nunca subir al repositorio
+.env
+*.env
+
+# Dependencias
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# IDE
+.idea/
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

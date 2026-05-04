@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: sabore-backend
+
+server:
+  port: 8080
+
+tomtom:
+  # La API Key se lee desde la variable de entorno TOMTOM_API_KEY.
+  # Nunca escribir el valor real aquí.
+  api-key: ${TOMTOM_API_KEY:}
+  base-url: https://api.tomtom.com

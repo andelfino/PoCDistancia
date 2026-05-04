@@ -1,0 +1,15 @@
+# Variables de entorno — nunca subir al repositorio
+.env
+*.env
+
+# Compilados Maven
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Sabore Mobile",
+    "slug": "sabore-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "newArchEnabled": true
+  }
+}
